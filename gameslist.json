@@ -1,6 +1,6 @@
 [
   {
-    "[Action-Adventure]": [
+    "Action-Adventure": [
       {
         "name": "Just One Boss",
         "author": "bridgs",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "[Adventure-Visual]": [
+    "Adventure-Visual": [
       {
         "name": "Dusk Child",
         "author": "SophieHoulden",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "[BeatEmUp]": [
+    "BeatEmUp": [
       {
         "name": "Streets of Rage",
         "author": "Unknown",
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "[Gun-FPS]": [
+    "Gun-FPS": [
       {
         "name": "Poom",
         "author": "freds72",
@@ -101,7 +101,7 @@
     ]
   },
   {
-    "[Hacks]": [
+    "Hacks": [
       {
         "name": "Celeste 2 (Hard Mode)",
         "author": "Unknown",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "[Misc]": [
+    "Misc": [
       {
         "name": "Breakout Hero",
         "author": "Lazy Devs",
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "[Music-Rythm]": [
+    "Music-Rythm": [
       {
         "name": "Pico Night Punkin",
         "author": "CarsonK",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "[Pinball]": [
+    "Pinball": [
       {
         "name": "Pinball",
         "author": "Unknown",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "[Platform]": [
+    "Platform": [
       {
         "name": "Celeste 2",
         "author": "Maddy Thorson & Noel Berry",
@@ -211,7 +211,7 @@
     ]
   },
   {
-    "[Puzzle]": [
+    "Puzzle": [
       {
         "name": "Combo Pool",
         "author": "NuSan",
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "[Racing]": [
+    "Racing": [
       {
         "name": "Pico World Race",
         "author": "PAK9",
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "[RPG]": [
+    "RPG": [
       {
         "name": "Porklike",
         "author": "Krystman",
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "[ShootEmUp]": [
+    "ShootEmUp": [
       {
         "name": "Birds With Guns",
         "author": "Yolwoocle",
@@ -362,7 +362,7 @@
     ]
   },
   {
-    "[Strategy-Management]": [
+    "Strategy-Management": [
       {
         "name": "UnDUNE II",
         "author": "Liquidream",
@@ -386,7 +386,7 @@
     ]
   },
   {
-    "[Simulation]": [
+    "Simulation": [
       {
         "name": "X-Wing Vs. Tie Fighter",
         "author": "freds72",
@@ -400,7 +400,7 @@
     ]
   },
   {
-    "[Sports]": [
+    "Sports": [
       {
         "name": "Mots 8-Ball Pool",
         "author": "Mot",
@@ -424,7 +424,7 @@
     ]
   },
   {
-    "[Tools]": [
+    "Tools": [
       {
         "name": "Wobblepaint",
         "author": "zep",
@@ -443,7 +443,7 @@
     ]
   },
   {
-    "[VsFighting]": [
+    "VsFighting": [
       {
         "name": "Praxis Fighter X",
         "author": "ericb",
