@@ -1,142 +1,454 @@
 [
   {
-    "name": "Celeste",
-    "author": "Maddy Thorson & Noel Berry",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Celeste%20Classic.p8.png"
+    "[Action-Adventure]": [
+      {
+        "name": "Just One Boss",
+        "author": "bridgs",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Just%20One%20Boss.p8.png"
+      },
+      {
+        "name": "Dank Tomb",
+        "author": "krajzeg",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Dank%20Tomb.p8.png"
+      },
+      {
+        "name": "The Lair",
+        "author": "krajzeg",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/The%20Lair.p8.png"
+      },
+      {
+        "name": "8 Legs To Love",
+        "author": "bridgs",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/8%20Legs%20To%20Love.p8.png"
+      },
+      {
+        "name": "Shadows Of Dunwich",
+        "author": "paranoidcactus",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Shadows%20Of%20Dunwich.p8.png"
+      },
+      {
+        "name": "Picokaiju",
+        "author": "spoike",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Picokaiju.p8.png"
+      },
+      {
+        "name": "Swordfish",
+        "author": "Loh",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Swordfish.p8.png"
+      }
+    ]
   },
   {
-    "name": "Just One Boss",
-    "author": "bridgs",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Just%20One%20Boss.p8.png"
+    "[Adventure-Visual]": [
+      {
+        "name": "Dusk Child",
+        "author": "SophieHoulden",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Dusk%20Child.p8.png"
+      },
+      {
+        "name": "Fog of War",
+        "author": "johanp",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Fog%20Of%20War.p8.png"
+      },
+      {
+        "name": "Subsurface",
+        "author": "JulianR",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Subsurface.p8.png"
+      },
+      {
+        "name": "Little Necromancer",
+        "author": "Freds72",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Little%20Necromancer.p8.png"
+      }
+    ]
   },
   {
-    "name": "Celeste 2",
-    "author": "Maddy Thorson & Noel Berry",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Celeste%20Classic%202.p8.png"
+    "[BeatEmUp]": [
+      {
+        "name": "Streets of Rage",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Streets%20of%20Rage.p8.png"
+      },
+      {
+        "name": "Bruce Lee",
+        "author": "Matt_0",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Bruce%20Lee.p8.png"
+      }
+    ]
   },
   {
-    "name": "Birds With Guns",
-    "author": "Yolwoocle",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Birds%20With%20Guns.p8.png"
+    "[Gun-FPS]": [
+      {
+        "name": "Poom",
+        "author": "freds72",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Poom.p8.png"
+      },
+      {
+        "name": "Wolfenstein 3D",
+        "author": "hungrybutterfly",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Wolfenstein%203D.p8.png"
+      },
+      {
+        "name": "Left 4 Diss",
+        "author": "Melo",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Left%204%20Diss.p8.png"
+      },
+      {
+        "name": "Pico Hot",
+        "author": "pirx_vr",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Picohot.p8.png"
+      }
+    ]
   },
   {
-    "name": "Beckon the Hellspawn",
-    "author": "TheGreenKiller",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Beckon%20the%20Hellspawn.p8.png"
+    "[Hacks]": [
+      {
+        "name": "Celeste 2 (Hard Mode)",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Celeste%202%20Hard%20Mode.p8.png"
+      }
+    ]
   },
   {
-    "name": "Dank Tomb",
-    "author": "krajzeg",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Dank%20Tomb.p8.png"
+    "[Misc]": [
+      {
+        "name": "Breakout Hero",
+        "author": "Lazy Devs",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Breakout%20Hero.p8.png"
+      },
+      {
+        "name": "Pigments",
+        "author": "benjamin_soule",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pigments.p8.png"
+      },
+      {
+        "name": "Pico Tetris",
+        "author": "Vanessa",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Tetris.p8.png"
+      },
+      {
+        "name": "High Stakes",
+        "author": "Krystman",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/High%20Stakes.p8.png"
+      }
+    ]
   },
   {
-    "name": "High Stakes",
-    "author": "Krystman",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/High%20Stakes.p8.png"
+    "[Music-Rythm]": [
+      {
+        "name": "Pico Night Punkin",
+        "author": "CarsonK",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Night%20Punkin.p8.png"
+      },
+      {
+        "name": "Rhythm Game",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Rhythm.p8.png"
+      }
+    ]
   },
   {
-    "name": "Mistigri",
-    "author": "benjamin_soule",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Mistigri.p8.png"
+    "[Pinball]": [
+      {
+        "name": "Pinball",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pinball.p8.png"
+      }
+    ]
   },
   {
-    "name": "Low Knight",
-    "author": "krajzeg",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Low%20Knight.p8.png"
+    "[Platform]": [
+      {
+        "name": "Celeste 2",
+        "author": "Maddy Thorson & Noel Berry",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Celeste%20Classic%202.p8.png"
+      },
+      {
+        "name": "Celeste",
+        "author": "Maddy Thorson & Noel Berry",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Celeste%20Classic.p8.png"
+      },
+      {
+        "name": "Mistigri",
+        "author": "benjamin_soule",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Mistigri.p8.png"
+      },
+      {
+        "name": "Low Knight",
+        "author": "krajzeg",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Low%20Knight.p8.png"
+      },
+      {
+        "name": "Fuz",
+        "author": "Jusiv",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Fuz.p8.png"
+      },
+      {
+        "name": "To A Starling",
+        "author": "Peteksi",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/To%20A%20Starling.p8.png"
+      },
+      {
+        "name": "Pico Snail",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Snail.p8.png"
+      },
+      {
+        "name": "Super Mario Bros",
+        "author": "Sascha217",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Super%20Mario%20Bros.p8.png"
+      },
+      {
+        "name": "Hungry Harry 3D",
+        "author": "paloblancogames",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Hungry%20Harry%203D.p8.png"
+      },
+      {
+        "name": "Harold's Bad Day",
+        "author": "biovoid",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Harold's%20Bad%20Day.p8.png"
+      }
+    ]
   },
   {
-    "name": "Breakout Hero",
-    "author": "Lazy Devs",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Breakout%20Hero.p8.png"
+    "[Puzzle]": [
+      {
+        "name": "Combo Pool",
+        "author": "NuSan",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Combo%20Pool.p8.png"
+      },
+      {
+        "name": "Marble Merger",
+        "author": "2darray",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Marble%20Merger.p8.png"
+      },
+      {
+        "name": "Suika Game Demake",
+        "author": "spoike",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Suika%20Game%20Demake.p8.png"
+      },
+      {
+        "name": "Pico Driller",
+        "author": "johanp",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Driller.p8.png"
+      },
+      {
+        "name": "Woodworm",
+        "author": "spratt",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Woodworm.p8.png"
+      },
+      {
+        "name": "Mai-Chans Sweet Buns",
+        "author": "Krystman",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Mai-Chans%20Sweet%20Buns.p8.png"
+      },
+      {
+        "name": "Marballs 2",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Marballs%202.p8.png"
+      },
+      {
+        "name": "Puzzles of the Paladin",
+        "author": "Nerdy Teachers",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Puzzles%20of%20the%20Paladin.p8.png"
+      },
+      {
+        "name": "Pieces Of Cake",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pieces%20Of%20Cake.p8.png"
+      },
+      {
+        "name": "Ascent",
+        "author": "johanp",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Ascent.p8.png"
+      }
+    ]
   },
   {
-    "name": "UnDUNE II",
-    "author": "Liquidream",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/UnDUNE%20II.p8.png"
+    "[Racing]": [
+      {
+        "name": "Pico World Race",
+        "author": "PAK9",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20World%20Race.p8.png"
+      },
+      {
+        "name": "X-Zero",
+        "author": "paranoidcactus",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/X-Zero.p8.png"
+      },
+      {
+        "name": "Picoracer-2048",
+        "author": "impbox",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Picoracer-2048.p8.png"
+      },
+      {
+        "name": "Driftmania",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Driftmania.p8.png"
+      }
+    ]
   },
   {
-    "name": "Mai-Chan's Sweet Buns",
-    "author": "Krystman",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Mai-Chans%20Sweet%20Buns.p8.png"
+    "[RPG]": [
+      {
+        "name": "Porklike",
+        "author": "Krystman",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Porklike.p8.png"
+      },
+      {
+        "name": "Curse Of The Lich King",
+        "author": "johanp",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Curse%20Of%20The%20Lich%20King.p8.png"
+      },
+      {
+        "name": "Oblivion Eve",
+        "author": "SmartAlloc",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Oblivion%20Eve.p8.png"
+      },
+      {
+        "name": "Freezing Knights",
+        "author": "tinyevilwizard",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Freezing%20Knights.p8.png"
+      },
+      {
+        "name": "Trial Of The Sorcerer",
+        "author": "Mot",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Trial%20Of%20The%20Sorcerer.p8.png"
+      },
+      {
+        "name": "Pico Monsters",
+        "author": "hcnt",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Monsters.p8.png"
+      },
+      {
+        "name": "Dungeon",
+        "author": "deklaswas",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Dungeon.p8.png"
+      }
+    ]
   },
   {
-    "name": "Pico Driller",
-    "author": "johanp",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Driller.p8.png"
+    "[ShootEmUp]": [
+      {
+        "name": "Birds With Guns",
+        "author": "Yolwoocle",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Birds%20With%20Guns.p8.png"
+      },
+      {
+        "name": "Beckon the Hellspawn",
+        "author": "TheGreenKiller",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Beckon%20the%20Hellspawn.p8.png"
+      },
+      {
+        "name": "Kalikan",
+        "author": "LouieChapm",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Kalikan.p8.png"
+      },
+      {
+        "name": "Hyperspace",
+        "author": "J-Fry",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Hyperspace.p8.png"
+      },
+      {
+        "name": "Galaga",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Galaga.p8.png"
+      },
+      {
+        "name": "Buns: Bunny Survivor",
+        "author": "unikotoast",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Buns:%20Bunny%20Survivor.p8.png"
+      }
+    ]
   },
   {
-    "name": "Slipways",
-    "author": "krajzeg",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/SlipWays.p8.png"
+    "[Strategy-Management]": [
+      {
+        "name": "UnDUNE II",
+        "author": "Liquidream",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/UnDUNE%20II.p8.png"
+      },
+      {
+        "name": "Islander",
+        "author": "CarsonK",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Islander.p8.png"
+      },
+      {
+        "name": "Guncho",
+        "author": "spoike",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Guncho.p8.png"
+      },
+      {
+        "name": "Pico Zombie Garden",
+        "author": "FlyingSmog",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Zombie%20Garden.p8.png"
+      }
+    ]
   },
   {
-    "name": "Witch n' Wiz",
-    "author": "mhughson",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Witch%20n%27%20Wiz.p8.png"
+    "[Simulation]": [
+      {
+        "name": "X-Wing Vs. Tie Fighter",
+        "author": "freds72",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/X-Wing%20Vs.%20Tie%20Fighter.p8.png"
+      },
+      {
+        "name": "Low Mem Sky",
+        "author": "Liquidream",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Low%20Mem%20Sky.p8.png"
+      }
+    ]
   },
   {
-    "name": "Kalikan",
-    "author": "LouieChapm",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Kalikan.p8.png"
+    "[Sports]": [
+      {
+        "name": "Mots 8-Ball Pool",
+        "author": "Mot",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Mots%208-Ball%20Pool.p8.png"
+      },
+      {
+        "name": "Golf Sunday",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Golf%20Sunday.p8.png"
+      },
+      {
+        "name": "Vecay Volley",
+        "author": "Unknown",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Vecay%20Volley.p8.png"
+      },
+      {
+        "name": "Alfonzos Bowling Challenge",
+        "author": "kittenm4ster",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Alfonzos%20Bowling%20Challenge.p8.png"
+      }
+    ]
   },
   {
-    "name": "Harold's Bad Day",
-    "author": "biovoid",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Harolds%20Bad%20Day.p8.png"
+    "[Tools]": [
+      {
+        "name": "Wobblepaint",
+        "author": "zep",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Wobblepaint.p8.png"
+      },
+      {
+        "name": "Shodo",
+        "author": "oinariman",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Shodo.p8.png"
+      },
+      {
+        "name": "Picoware",
+        "author": "szczm_",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Picoware.p8.png"
+      }
+    ]
   },
   {
-    "name": "Pigments",
-    "author": "benjamin_soule",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pigments.p8.png"
-  },
-  {
-    "name": "X-Zero",
-    "author": "paranoidcactus",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/X-Zero.p8.png"
-  },
-  {
-    "name": "Islander",
-    "author": "CarsonK",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/ISLANDER.p8.png"
-  },
-  {
-    "name": "Marbles 2",
-    "author": "Lucatron",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Marballs%202.p8.png"
-  },
-  {
-    "name": "Combo Pool",
-    "author": "NuSan",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Combo%20Pool.p8.png"
-  },
-  {
-    "name": "Curse of the Lich King",
-    "author": "johanp",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Curse%20of%20the%20Lich%20King.p8.png"
-  },
-  {
-    "name": "Pico Tetris",
-    "author": "Vanessa",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Tetris.p8.png"
-  },
-  {
-    "name": "Picoracer 2048",
-    "author": "impbox",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Pico%20Racer.p8.png"
-  },
-  {
-    "name": "To a Starling",
-    "author": "Peteksi",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/To%20a%20Starling.p8.png"
-  },
-  {
-    "name": "Marballs 2",
-    "author": "2darray",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Marballs%202.p8.png"
-  },
-  {
-    "name": "Buns - Bunny Survivor",
-    "author": "unikotoast",
-    "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Buns%20-%20Bunny%20survivor.p8.png"
+    "[VsFighting]": [
+      {
+        "name": "Praxis Fighter X",
+        "author": "ericb",
+        "url": "https://dn721601.ca.archive.org/0/items/top-200-pico-8-games/Praxis%20Fighter%20X.p8.png"
+      }
+    ]
   }
 ]
