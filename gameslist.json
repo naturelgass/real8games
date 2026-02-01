@@ -93,6 +93,13 @@
         "url": "https://www.lexaloffle.com/bbs/cposts/si/sixteengreens-0.p8.png",
         "recom": "WIN,3DS,SWITCH"
       }
+    ],
+    "Stereoscopic": [
+      {
+        "name": "PICO Extended",
+        "url": "https://raw.githubusercontent.com/naturelgass/real8-explorer/refs/heads/main/demos/pico_extended.p8.png",
+        "recom": "WIN,3DS,SWITCH"
+      }
     ]
   }
 ]
