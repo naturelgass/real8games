@@ -87,8 +87,8 @@
   {
     "Shooters": [
       {
-        "name": "Galaxian",
-        "url": "https://www.lexaloffle.com/bbs/cposts/3/39705.p8.png",
+        "name": "Galaga",
+        "url": "https://www.lexaloffle.com/bbs/cposts/4/46484.p8.png",
         "recom": "WIN,3DS,SWITCH"
       },
       {
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "Stereoscopic": [
+    "Pico-Extended": [
       {
         "name": "PICO Extended",
         "url": "https://raw.githubusercontent.com/naturelgass/real8-explorer/refs/heads/main/demos/pico_extended.p8.png",
-        "recom": "WIN,3DS,SWITCH"
+        "recom": "3DS"
       }
     ]
   }
