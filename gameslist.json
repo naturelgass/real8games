@@ -39,7 +39,7 @@
         "url": "https://www.lexaloffle.com/bbs/cposts/ce/celeste_2_madeline-3.p8.png",
         "recom": "WIN,3DS,SWITCH"
       },
-           {
+      {
         "name": "Super Mario Bros",
         "url": "https://www.lexaloffle.com/bbs/cposts/5/56470.p8.png",
         "recom": "WIN,SWITCH"
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "Pico-Extended": [
+    "Real8-Demos": [
       {
         "name": "PICO Extended",
         "url": "https://raw.githubusercontent.com/naturelgass/real8-explorer/refs/heads/main/demos/pico_extended.p8.png",
