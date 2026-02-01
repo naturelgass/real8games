@@ -6,14 +6,18 @@
         "url": "https://www.lexaloffle.com/bbs/cposts/xz/xzero-3.p8.png",
         "recom": "WIN,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Adventures": [
       {
         "name": "Dusk Child",
         "url": "https://www.lexaloffle.com/bbs/cposts/3/39705.p8.png",
         "recom": "WIN,3DS,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Platformers": [
       {
         "name": "Bomb Jack",
@@ -40,7 +44,9 @@
         "url": "https://www.lexaloffle.com/bbs/cposts/5/56470.p8.png",
         "recom": "WIN,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Puzzles": [
       {
         "name": "A Doukutsu Demake",
@@ -67,14 +73,18 @@
         "url": "https://www.lexaloffle.com/bbs/cposts/qb/qbert08-0.p8.png",
         "recom": "WIN,3DS,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Racing": [
       {
         "name": "Pico Off Road",
         "url": "https://www.lexaloffle.com/bbs/cposts/pi/picooffroad-5.p8.png",
         "recom": "WIN,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Shooters": [
       {
         "name": "Galaxian",
@@ -86,14 +96,18 @@
         "url": "https://www.lexaloffle.com/bbs/cposts/4/42220.p8.png",
         "recom": "WIN,3DS,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Sports": [
       {
         "name": "16 Greens",
         "url": "https://www.lexaloffle.com/bbs/cposts/si/sixteengreens-0.p8.png",
         "recom": "WIN,3DS,SWITCH"
       }
-    ],
+    ]
+  },
+  {
     "Stereoscopic": [
       {
         "name": "PICO Extended",
